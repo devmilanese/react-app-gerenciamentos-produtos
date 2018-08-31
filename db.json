@@ -1,0 +1,37 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "sabão Liquido 2",
+      "categoria": "1"
+    },
+    {
+      "id": 2,
+      "produto": "sabão em Pó 1",
+      "categoria": "1"
+    },
+    {
+      "id": 3,
+      "produto": "bolacha salgada",
+      "categoria": "2"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "limpeza"
+    },
+    {
+      "id": 2,
+      "categoria": "alimentosssss"
+    },
+    {
+      "categoria": "utilidades",
+      "id": 3
+    },
+    {
+      "categoria": "mimi",
+      "id": 4
+    }
+  ]
+}
